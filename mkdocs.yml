@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: React Mini Projects
 nav:
   - Start Here: index.md
   - Multiplication Tables: 1-multiplication-tables.md
