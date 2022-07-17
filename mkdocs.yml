@@ -5,6 +5,7 @@ nav:
   - Color Picker: 2-color-picker.md
   - Move Pixel: 3-move-div.md
   - Speech Synthesis: 4-speech-synthesis.md
+  - Right Click Menu: 5-right-click-menu.md
 theme:
   name: readthedocs
   highlightjs: true
