@@ -13,6 +13,7 @@ Create a right-click menu that shows a list of your menu options.  Be sure that 
 
 ## Resources
 
+- [Discord](https://discord.gg/Jwv7xaPRMS)
 - [Remove Event Listener](https://www.w3schools.com/jsref/met_element_removeeventlistener.asp)
 - [Context Menu](https://developer.mozilla.org/en-US/docs/Web/API/Element/contextmenu_event)
 - [useEffect](https://reactjs.org/docs/hooks-effect.html)
