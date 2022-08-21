@@ -7,6 +7,7 @@ nav:
   - Speech Synthesis: 4-speech-synthesis.md
   - Right Click Menu: 5-right-click-menu.md
   - React Konva: 6-konva-react.md
+  - React Router DOM + Bulma: 7-react-router-dom-bulma.md
 theme:
   name: readthedocs
   highlightjs: true
