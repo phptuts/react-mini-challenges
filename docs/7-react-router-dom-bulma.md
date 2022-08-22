@@ -1,4 +1,4 @@
-# React Route Dom + Bulma Mini Challenge
+# React Router Dom + Bulma Mini Challenge
 
 Using [react router dom](https://v5.reactrouter.com/web/guides/quick-start) and [bulma.css](https://bulma.io/) create a react app with a home page and an about page.  The website should have a mobile navigation bar that can open and close with click / touch events.  You should also be able to exit mobile navigation by clicking outside of the nav bar. 
 
