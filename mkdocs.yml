@@ -8,6 +8,7 @@ nav:
   - Right Click Menu: 5-right-click-menu.md
   - React Konva: 6-konva-react.md
   - React Router DOM + Bulma: 7-react-router-dom-bulma.md
+  - Redux Toolkit Explain: 8-redux-toolkit.md
 theme:
   name: readthedocs
   highlightjs: true

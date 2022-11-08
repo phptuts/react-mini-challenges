@@ -28,6 +28,6 @@ In this video I explain redux toolkit and how to async function with it. I go ov
 
 ## Resources
 
-[Diagram](https://drive.google.com/file/d/1idrNm3Mp_A8xl1Q45qMh9RdX8MAFXwyr/view?usp=sharing)
-[Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
-[ThunkApi](https://app.diagrams.net/#G1idrNm3Mp_A8xl1Q45qMh9RdX8MAFXwyr)
+- [Diagram](https://drive.google.com/file/d/1idrNm3Mp_A8xl1Q45qMh9RdX8MAFXwyr/view?usp=sharing)
+- [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+- [ThunkApi](https://app.diagrams.net/#G1idrNm3Mp_A8xl1Q45qMh9RdX8MAFXwyr)
