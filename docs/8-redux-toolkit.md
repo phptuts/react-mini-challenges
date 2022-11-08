@@ -10,7 +10,8 @@ In this video I explain redux toolkit and how to async function with it. I go ov
 ## Terms
 
 - Store: The object contains all of your apps data.
-- Action Creator: A function that creates an action
+- Action Creator: A function that creates an action.
+- Action Creator: An object that is passed to your reducer. It usually has a type and payload.
 - Reducer: A function that takes in an action and state that the store is storing
 
 ## General Flow
